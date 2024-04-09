@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Handyman App</string>
+    <string name="handymanBtn">I\'m handyman</string>
+    <string name="customerBtn">I\'m customer</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sing_in">Sing in</string>
+    <string name="handymanStatus">Connecting to the handyman</string>
+    <string name="createQuestion">Do not have an account?</string>
+    <string name="registration_for_handyman">Registration for handyman</string>
+    <string name="statusHandyman">Connection for handyman\'s</string>
+    <string name="statusCustomer">Connection for customers</string>
+    <string name="title_activity_handyman_map">HandymanMapActivity</string>
+</resources>
